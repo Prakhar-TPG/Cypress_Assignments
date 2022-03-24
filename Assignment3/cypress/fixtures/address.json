@@ -1,0 +1,14 @@
+{
+    "address": [
+        "#address_delivery .address_firstname",
+        "#address_delivery .address_address1",
+        "#address_delivery .address_city",
+        "#address_delivery .address_phone_mobile"
+    ],
+    "address_text": [
+        "Rahul Singh",
+        "k-1 preetvihar ",
+        "New Delhi, Florida 12345",
+        "9876543210"
+    ]
+}

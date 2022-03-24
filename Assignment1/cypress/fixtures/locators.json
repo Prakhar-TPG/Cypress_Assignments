@@ -1,0 +1,21 @@
+{
+    "user": "#user-name",
+    "pass": "#password",
+    "login_btn": "#login-button",
+    "hamburger": ".bm-burger-button",
+    "logout_btn": "#logout_sidebar_link",
+    "add_to_cart": "button[name=add-to-cart-sauce-labs-backpack]",
+    "item1": ".inventory_item_name",
+    "name1": "Sauce Labs Backpack",
+    "name2": "Sauce Labs Onesie",
+    "price1": ".inventory_item_price",
+    "price2": ".inventory_item_price",
+    "cost1": "$29.99",
+    "cost2": "7.99",
+    "item2": ".inventory_item_name",
+    "low_price_add_to_cart": "#add-to-cart-sauce-labs-onesie",
+    "cart": ".shopping_cart_link",
+    "filter": ".product_sort_container",
+    "remove_btn": "#remove-sauce-labs-onesie",
+    "item_removed_check": "span[class=shopping_cart_badge]"
+}

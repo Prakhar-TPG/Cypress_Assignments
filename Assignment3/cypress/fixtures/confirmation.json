@@ -1,0 +1,12 @@
+{
+    "checkpayment": [
+        ".page-subheading",
+        ".box >p> span",
+        ".box>p>b "
+    ],
+    "checktext": [
+        "Check payment",
+        "$18.51",
+        "Dollar"
+    ]
+}

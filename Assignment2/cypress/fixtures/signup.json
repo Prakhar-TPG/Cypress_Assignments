@@ -1,0 +1,20 @@
+
+  {
+    "sign_in": ".login",
+    "new_email": "#email_create",
+    "create_acc_btn": "#SubmitCreate",
+    "loginid":"#email",
+    "password":"#passwd",
+    "radio_btn":"#id_gender1",
+    "form": ["#customer_firstname","#customer_lastname","#passwd","#address1","#city","#postcode","#phone_mobile","#alias"],
+    "formdata":["Rahul","Singh","qwerty","k-1 preetvihar","New Delhi","12345","9876543210","Mayur Vihar"],
+    "dropdown":"#id_state",
+    "dropdown_text": "Florida",
+    "register": "#submitAccount",
+    "submit_login_btn":"#SubmitLogin",
+    "profile_name":".account",
+    "logout": ".logout"
+    }
+
+  
+  

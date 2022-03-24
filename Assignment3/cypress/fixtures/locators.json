@@ -1,0 +1,9 @@
+{
+    "sign_in": ".login",
+    "loginid": "#email",
+    "submit_login_btn": "#SubmitLogin",
+    "password": "#passwd",
+    "Tshirts": ".sf-menu>li",
+    "add_to_cart": ".ajax_add_to_cart_button",
+    "proceed": ".cart_navigation>a>span"
+}

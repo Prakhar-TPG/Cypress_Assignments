@@ -1,0 +1,11 @@
+{
+    "vshipping": [
+        ".resume >tbody>tr>td>strong",
+        ".delivery_option_price>div"
+    ],
+    "vshipping_text": [
+        "My carrier",
+        "$2.00"
+    ],
+    "tc": "#cgv"
+}

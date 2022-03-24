@@ -1,0 +1,17 @@
+{
+    "Locators": [
+        ".cart_description > .product-name > a",
+        ".label-success",
+        "#total_product",
+        "#total_shipping",
+        "#total_price"
+    ],
+    "Value": [
+        "Faded Short Sleeve T-shirts",
+        "In stock",
+        "$16.51",
+        "$2.00",
+        "$18.51"
+    ],
+    "checkout": ".cart_navigation > .button > span"
+}

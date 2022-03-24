@@ -1,0 +1,27 @@
+{
+    "women": ".sf-menu>li>a[title='Women'] ",
+    "Tshirts": ".submenu-container >li>ul>li>a[title='T-shirts']",
+    "add_to_cart": ".ajax_add_to_cart_button",
+    "verifications": [
+        ".layer_cart_product > h2",
+        ".layer_cart_product_info> #layer_cart_product_title",
+        "#layer_cart_product_attributes",
+        "#layer_cart_product_quantity",
+        ".layer_cart_cart> div>.ajax_cart_shipping_cost",
+        "#layer_cart_product_price",
+        ".layer_cart_row>.ajax_block_cart_total",
+        ".continue",
+        ".button-container > .button-medium > span"
+    ],
+    "verifications_text": [
+        "Product successfully added to your shopping cart",
+        "Faded Short Sleeve T-shirts",
+        "Orange, S",
+        "1",
+        "2.00",
+        "$16.51",
+        "$18.51",
+        "Continue shopping",
+        "Proceed to checkout"
+    ]
+}

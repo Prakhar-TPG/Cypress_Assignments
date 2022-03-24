@@ -1,0 +1,14 @@
+{
+    "vpayment": [
+        ".cart_ref",
+        ".cart_description>small>a",
+        ".bankwire",
+        ".cheque"
+    ],
+    "vpayment_text": [
+        "SKU : demo_1",
+        "Color : Orange, Size : S",
+        "Pay by bank wire",
+        "Pay by check"
+    ]
+}

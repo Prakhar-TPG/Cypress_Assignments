@@ -1,0 +1,14 @@
+{
+  "homepage": [
+    "[title='Orders']",
+    "[title='Credit slips']",
+    "[title='Addresses']",
+    "[title='Information']"
+  ],
+  "homepage_data": [
+    "Order history and details",
+    "My credit slips",
+    "My addresses",
+    "My personal information"
+  ]
+}
